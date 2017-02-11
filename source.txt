@@ -1,3 +1,4 @@
 ligne 1 : toto
 ligne 2 : salut
 Comment vas-tu ?
+Je vais bien et toi ?
